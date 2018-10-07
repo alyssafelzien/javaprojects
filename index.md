@@ -1,22 +1,20 @@
-<!DOCTYPE html>
- <head>
-    <meta charset="UTF-8">
-    <title>Java Projects</title>
-    <meta name="title" content="Java Projects">
 
-<body>
-
-<header>
-## Java Projects
-</header>
-GitHub Page for my java projects
+# Java Projects
 
 
 ## Double Linked List
 
 In CS 221, Java Programming, I created an implementation of an 
-IndexedUnsortedList 
-using a Double Linked List data structure. Through this project, I gained 
-experience with  
+IndexedUnsortedList using a Double Linked List data structure. Through this project, I gained 
+experience with creating data structures and testing. The testing I used for this project was 
 
-</body>
+
+## MineWalker
+
+In CS 121, Java Programming, I completed a project that was to create a MineWalker game.
+To play the game, the user must go from the starting block in the lower left hand corner
+of a grid of JButtons to the upper right hand corner. Throughout the game the player must
+avoid blocks that contain mines and must attempt to get to the end point in the fewest moves 
+possible to get the highest score. 
+
+<img src="\images\mw1.png">
