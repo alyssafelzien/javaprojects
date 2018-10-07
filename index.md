@@ -19,3 +19,4 @@ avoid blocks that contain mines and must attempt to get to the end point in the 
 possible to get the highest score. 
 
 ![alt text](https://github.com/alyssafelzien/javaprojects/blob/gh-pages/images/minewalker.PNG)
+![Mine Walker](/images/minewalker.PNG)
