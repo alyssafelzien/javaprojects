@@ -18,4 +18,4 @@ of a grid of JButtons to the upper right hand corner. Throughout the game the pl
 avoid blocks that contain mines and must attempt to get to the end point in the fewest moves 
 possible to get the highest score. 
 
-![](https://github.com/alyssafelzien/javaprojects/blob/gh-pages/images/minewalker.PNG)
+![](javaprojects/images/minewalker.PNG)
