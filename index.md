@@ -1,3 +1,6 @@
+<a id="Back to Main Page" href="https://alyssafelzien.github.io/">Back to Main Page </a> 
+
+
 
 # Java Projects
 <p> </p>
@@ -18,5 +21,4 @@ of a grid of JButtons to the upper right hand corner. Throughout the game the pl
 avoid blocks that contain mines and must attempt to get to the end point in the fewest moves 
 possible to get the highest score. 
 
-![alt text](https://github.com/alyssafelzien/javaprojects/blob/gh-pages/images/minewalker.PNG)
 ![Mine Walker](/images/minewalker.PNG)
